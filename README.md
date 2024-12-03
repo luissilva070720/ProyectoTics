@@ -4,4 +4,4 @@
 
 
 ![user-persona](./img/user-persona.png)
-![journey-maps](./img/journey-maps.png)
+![jouney-maps](./img/jouney-maps.png)

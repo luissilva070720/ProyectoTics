@@ -8,7 +8,7 @@ Conversamos con el y nos conto un poco mas de sus situaciones actuales, con su c
 ![jouney-maps](./img/jouney-maps.png)
 
 
-Gracias a el pudimos formular encuestas con la opinion de los alumnos y maestros de este plantel que dieron su opinion de esta intitucion y sus peleas en bachogym 
+Gracias a el pudimos formular encuestas con la opinion de los alumnos y maestros de este plantel que dieron su opinion de esta intitucion y sus problemas en bachogym 
 https://forms.office.com/r/LLJDxcLzLj?origin=lprLink
 y estos fueron los resultados.
 ![user-persona](./img/encuesta-drogas.png)

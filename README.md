@@ -13,4 +13,7 @@ https://forms.office.com/r/LLJDxcLzLj?origin=lprLink
 y estos fueron los resultados.
 ![user-persona](./img/encuesta-drogas.png)
 
-Y pudimos crear un app que puedes consultar los apoyos, numeros, intituciones
+Y pudimos crear un app que puedes consultar los apoyos, numeros, intituciones que ayudan a la fomentacion de mejores vidas.
+
+![user-persona](./img/app-drogas.png)
+

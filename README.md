@@ -6,3 +6,11 @@ Leonardo tuvo una crisis la cual pudo recuperarse gracias al institucion y docen
 
 Conversamos con el y nos conto un poco mas de sus situaciones actuales, con su consentimiento pudimos hacer un journey maps (mapa de situaciones), que planteamos aqui para que el publico en general pueda ponerse en esa situacion de vulneravilidad
 ![jouney-maps](./img/jouney-maps.png)
+
+
+Gracias a el pudimos formular encuestas con la opinion de los alumnos y maestros de este plantel que dieron su opinion de esta intitucion y sus peleas en bachogym 
+https://forms.office.com/r/LLJDxcLzLj?origin=lprLink
+y estos fueron los resultados.
+![user-persona](./img/encuesta-drogas.png)
+
+Y pudimos crear un app que puedes consultar los apoyos, numeros, intituciones
